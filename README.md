@@ -1,2 +1,6 @@
 # UMI.CMS-ImageMagick-Crop
 Create thumbnails for UMI.CMS with use ImageMagick
+
+For install, add file custom.php to folder '/classes/modules/'.
+
+Call macros sample (params as the same of system macros makeThumbnailFull): udata://custom/makeThumbnailFull
